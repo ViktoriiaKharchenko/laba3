@@ -1,0 +1,9 @@
+C:\Users\Boss\source\repos\laba3\laba3\obj\Debug\laba3.csprojAssemblyReference.cache
+C:\Users\Boss\source\repos\laba3\laba3\obj\Debug\laba3.Properties.Resources.resources
+C:\Users\Boss\source\repos\laba3\laba3\obj\Debug\laba3.csproj.GenerateResource.cache
+C:\Users\Boss\source\repos\laba3\laba3\obj\Debug\laba3.BookDatabase.resources
+C:\Users\Boss\source\repos\laba3\laba3\bin\Debug\laba3.exe.config
+C:\Users\Boss\source\repos\laba3\laba3\bin\Debug\laba3.exe
+C:\Users\Boss\source\repos\laba3\laba3\bin\Debug\laba3.pdb
+C:\Users\Boss\source\repos\laba3\laba3\obj\Debug\laba3.exe
+C:\Users\Boss\source\repos\laba3\laba3\obj\Debug\laba3.pdb
